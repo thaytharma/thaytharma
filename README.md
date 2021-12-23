@@ -2,10 +2,11 @@
 <h1 align="left" id="thaytharma-title">:wave: Hello there! I'm Thayanan Tharmapalan</h1>
 <h2 align="left">I am a Software Developer at DNB</h3>
 
-
+<!--
 <a href="#thaytharma-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaytharma&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thaytharma&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Thay Tharma" align="right" />
 </a>
+!-->
 
 - :office: &nbsp;I'm currently working at **DNB**
 - :seedling: &nbsp;I’m currently learning **[Swift]**
@@ -14,11 +15,7 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more on **[Instagram]**
 
-<br>
-
 <h3 align="left" id="thaytharma-tech">Favorite Tech</h2>
-
-
 <table align="left">
   <tr>
     <td align="center" width="96">
@@ -196,5 +193,6 @@
 [instagram]: https://www.instagram.com/thaytharma/ "Instagram"
 [swift]: https://developer.apple.com/swift/ "Swift"
 
+<h3 align="left" id="thaytharma-contribution">Contribution graph/h2>
 
 [![thaytharma's github activity graph](https://activity-graph.herokuapp.com/graph?username=thaytharma&theme=react-dark)](https://github.com/thaytharma)
