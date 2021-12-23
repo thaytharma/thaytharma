@@ -1,5 +1,5 @@
 
-<h1 align="left" id="thaytharma-title">:wave: Hey there! I'm Thay</h1>
+<h1 align="left" id="thaytharma-title"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there! I'm Thay</h1>
 
 <!--
 <a href="#thaytharma-title">
