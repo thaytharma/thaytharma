@@ -192,6 +192,8 @@
 [linkedin]: https://www.linkedin.com/in/thayanan-tharmapalan "LinkedIn"
 [instagram]: https://www.instagram.com/thaytharma/ "Instagram"
 [swift]: https://developer.apple.com/swift/ "Swift"
+[dnb]: https://www.dnb.no/forside-saga "DNB"
+
 
 <h3 align="left" id="thaytharma-contribution">Contribution graph</h3>
 
