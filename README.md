@@ -1,6 +1,6 @@
 
 <h1 align="left" id="thaytharma-title">:wave: Hello there! I'm Thayanan Tharmapalan</h1>
-<h3 align="left">I am a Software Developer at DNB</h3>
+<h2 align="left">I am a Software Developer at DNB</h3>
 
 
 <a href="#thaytharma-title">
@@ -16,9 +16,7 @@
 
 <br>
 
-<h2 align="left" id="thaytharma-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
+<h3 align="left" id="thaytharma-tech">Favorite Tech</h2>
 
 
 <table align="center">
