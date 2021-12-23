@@ -19,7 +19,7 @@
 <h3 align="left" id="thaytharma-tech">Favorite Tech</h2>
 
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
       <a href="#thaytharma-tech">
