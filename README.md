@@ -1,6 +1,5 @@
 
-<h1 align="left" id="thaytharma-title">:wave: Hello there! I'm Thayanan Tharmapalan</h1>
-<h2 align="left">I am a Software Developer at DNB</h3>
+<h1 align="left" id="thaytharma-title">:wave: Hey there! I'm Thay</h1>
 
 <!--
 <a href="#thaytharma-title">
@@ -8,7 +7,7 @@
 </a>
 !-->
 
-- :office: &nbsp;I'm currently working at **[DNB]**
+- :office: &nbsp;I'm currently working as a Software Engineer at **[DNB]**
 - :seedling: &nbsp;I’m currently learning **[Swift]**
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I'm always happy to **help** :)
