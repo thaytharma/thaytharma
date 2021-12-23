@@ -15,7 +15,7 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more on **[Instagram]**
 
-<h3 align="left" id="thaytharma-tech">Favorite Tech</h2>
+<h3 align="left" id="thaytharma-tech">Favorite Tech</h3>
 <table align="left">
   <tr>
     <td align="center" width="96">
@@ -193,6 +193,6 @@
 [instagram]: https://www.instagram.com/thaytharma/ "Instagram"
 [swift]: https://developer.apple.com/swift/ "Swift"
 
-<h3 align="left" id="thaytharma-contribution">Contribution graph/h2>
+<h3 align="left" id="thaytharma-contribution">Contribution graph</h3>
 
 [![thaytharma's github activity graph](https://activity-graph.herokuapp.com/graph?username=thaytharma&theme=react-dark)](https://github.com/thaytharma)
