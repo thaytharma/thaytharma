@@ -8,7 +8,7 @@
 </a>
 !-->
 
-- :office: &nbsp;I'm currently working at **DNB**
+- :office: &nbsp;I'm currently working at **[DNB]**
 - :seedling: &nbsp;I’m currently learning **[Swift]**
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I'm always happy to **help** :)
