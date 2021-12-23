@@ -197,5 +197,4 @@
 [swift]: https://developer.apple.com/swift/ "Swift"
 
 
-
-[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=thaytharma&theme=react-dark)](https://github.com/thaytharma)
+[![thaytharma's github activity graph](https://activity-graph.herokuapp.com/graph?username=thaytharma&theme=react-dark)](https://github.com/thaytharma)
