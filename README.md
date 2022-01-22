@@ -23,12 +23,6 @@
     </td>
     <td align="center" width="96">
       <a href="#thaytharma-tech">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
-      </a>
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-      <a href="#thaytharma-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
@@ -56,6 +50,12 @@
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
+    </td>
+        <td align="center" width="96">
+      <a href="#thaytharma-tech">
+        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
+      </a>
+      <br>Azure
     </td>
         <td align="center" width="96">
       <a href="#thaytharma-tech">
