@@ -9,9 +9,8 @@
 
 - :office: &nbsp;I'm currently working as a Software Engineer at **[DNB]**
 - :seedling: &nbsp;I’m currently learning **[Swift]**
-- :mailbox: &nbsp;Ask me about anything, I'm always happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more on **[Instagram]**
+
 
 <h3 align="left" id="thaytharma-tech">Favorite Tech</h3>
 <table align="left">
