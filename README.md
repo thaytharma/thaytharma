@@ -53,12 +53,6 @@
     </td>
         <td align="center" width="96">
       <a href="#thaytharma-tech">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
-      </a>
-      <br>Azure
-    </td>
-        <td align="center" width="96">
-      <a href="#thaytharma-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -70,10 +64,3 @@
 [instagram]: https://www.instagram.com/thaytharma/ "Instagram"
 [swift]: https://developer.apple.com/swift/ "Swift"
 [dnb]: https://www.dnb.no/forside-saga "DNB"
-
-<br></br>
-<br></br>
-
-<h3 align="left" id="thaytharma-contribution">Contribution graph</h3>
-
-[![thaytharma's github activity graph](https://activity-graph.herokuapp.com/graph?username=thaytharma&theme=react-dark)](https://github.com/thaytharma)
